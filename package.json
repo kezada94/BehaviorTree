@@ -1,0 +1,15 @@
+{
+  "name": "com.rraptor.behaviortree",
+  "version": "0.1.0",
+  "displayName": "RR Behavior Tree",
+  "description": "Unity Editor behavior tree visual editor & runtime",
+  "unity": "2019.1",
+  "author": {
+    "name": "Kiet Tran"
+  },
+  "dependencies": {
+    "com.rraptor.events": "https://github.com/kietran99/RR_Events.git?path=Assets/RR_Events/#main",
+    "com.rraptor.serialization": "https://github.com/kietran99/RR_Serialization.git#main",
+    "com.rraptor.utils": "https://github.com/kietran99/RR_Utils.git"
+  }
+}
